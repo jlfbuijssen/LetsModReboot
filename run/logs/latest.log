@@ -1,11 +1,45 @@
-[18:25:49] [main/INFO]: Setting user: Player968
-[18:25:50] [Client thread/INFO]: LWJGL Version: 2.9.1
-[18:25:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[18:25:57] [Sound Library Loader/INFO]: Sound engine started
-[18:25:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:25:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:25:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[18:25:59] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:25:59] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:26:00] [Sound Library Loader/INFO]: Sound engine started
-[18:26:34] [Client thread/INFO]: Stopping!
+[21:15:25] [main/INFO]: Setting user: Player147
+[21:15:27] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:15:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[21:15:42] [Sound Library Loader/INFO]: Sound engine started
+[21:15:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:15:48] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:15:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[21:15:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:15:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:15:50] [Sound Library Loader/INFO]: Sound engine started
+[21:16:04] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:16:04] [Server thread/INFO]: Generating keypair
+[21:16:05] [Server thread/INFO]: Preparing start region for level 0
+[21:16:06] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:16:07] [Server thread/INFO]: Player147[local:E:46227ff0] logged in with entity id 127 at (-498.4571036596378, 5.0, 901.6408823099625)
+[21:16:07] [Server thread/INFO]: Player147 joined the game
+[21:17:10] [Server thread/INFO]: Player147 has just earned the achievement [Taking Inventory]
+[21:17:11] [Client thread/INFO]: [CHAT] Player147 has just earned the achievement [Taking Inventory]
+[21:20:36] [Server thread/WARN]: The save is being accessed from another location, aborting
+[21:21:21] [Server thread/WARN]: The save is being accessed from another location, aborting
+[21:22:06] [Server thread/WARN]: The save is being accessed from another location, aborting
+[21:22:51] [Server thread/WARN]: The save is being accessed from another location, aborting
+[21:23:36] [Server thread/WARN]: The save is being accessed from another location, aborting
+x256 textures/items-atlas
+[21:19:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[21:19:48] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:19:48] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:19:49] [Sound Library Loader/INFO]: Sound engine started
+[21:19:54] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:19:54] [Server thread/INFO]: Generating keypair
+[21:19:55] [Server thread/INFO]: Preparing start region for level 0
+[21:19:56] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:19:56] [Server thread/INFO]: Player441[local:E:9cfdbf2a] logged in with entity id 117 at (-497.7497474033803, 4.0, 901.1984151741389)
+[21:19:56] [Server thread/INFO]: Player441 joined the game
+[21:20:57] [Server thread/INFO]: Player441 has just earned the achievement [Taking Inventory]
+[21:20:57] [Client thread/INFO]: [CHAT] Player441 has just earned the achievement [Taking Inventory]
+[21:20:58] [Client thread/INFO]: Stopping!
+[21:20:58] [Server thread/INFO]: Stopping server
+[21:20:58] [Server thread/INFO]: Saving players
+[21:20:58] [Server thread/INFO]: Saving worlds
+[21:20:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:20:58] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:20:58] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:20:58] [Client Shutdown Thread/INFO]: Stopping server
+[21:20:58] [Client Shutdown Thread/INFO]: Saving players

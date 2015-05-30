@@ -1,7 +1,13 @@
 package com.jbuijssen.letsmodreboot.block;
 
-/**
- * Created by s128288 on 30/5/15.
- */
-public class BlockFlag {
+
+public class BlockFlag extends BlockLMRB{
+    public BlockFlag()
+    {
+        super();
+        this.setBlockName("flag");
+        this.setBlockTextureName("flag");
+
+        this.setLightLevel(15);
+    }
 }
