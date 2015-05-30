@@ -18,8 +18,8 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.7.10-1.0"
-group= "com.jbuijssen.LetsModReboot" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "LetsModReboot"
+group= "com.jbuijssen.letsmodreboot" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "letsmodreboot"
 
 minecraft {
     version = "1.7.10-10.13.2.1291"
