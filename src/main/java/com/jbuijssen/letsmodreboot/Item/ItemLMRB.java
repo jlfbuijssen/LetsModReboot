@@ -1,6 +1,7 @@
 package com.jbuijssen.letsmodreboot.item;
 
 
+import com.jbuijssen.letsmodreboot.creativetab.CreativeTabLMRB;
 import com.jbuijssen.letsmodreboot.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -13,6 +14,7 @@ public class ItemLMRB extends Item{
     public ItemLMRB()
     {
         super();
+        this.setCreativeTab(CreativeTabLMRB.LMRB_TAB);
     }
 
     @Override
