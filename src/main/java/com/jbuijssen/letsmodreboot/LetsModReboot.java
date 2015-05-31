@@ -4,6 +4,7 @@ package com.jbuijssen.letsmodreboot;
 import com.jbuijssen.letsmodreboot.handler.ConfigurationHandler;
 import com.jbuijssen.letsmodreboot.init.ModItems;
 import com.jbuijssen.letsmodreboot.init.ModBlocks;
+import com.jbuijssen.letsmodreboot.init.Recipes;
 import com.jbuijssen.letsmodreboot.proxy.IProxy;
 import com.jbuijssen.letsmodreboot.reference.Reference;
 import com.jbuijssen.letsmodreboot.utility.LogHelper;
@@ -36,8 +37,11 @@ public class LetsModReboot {
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event){
-        LogHelper.info("Initialization Complete!");
+        Recipes.init();
 
+
+
+        LogHelper.info("Initialization Complete!");
     }
 
     @Mod.EventHandler
