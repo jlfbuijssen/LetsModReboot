@@ -1,5 +1,14 @@
+% Keys
+keys.letsmodreboot.category=Let's Mood Reboot
+keys.letsmodreboot.charge=Charge
+keys.letsmodreboot.release=Release
+
+% Items
 item.letsmodreboot:mapleLeaf.name=Maple Leaf of Awesomeness
 
+% Blocs
 tile.letsmodreboot:flag.name=Canadian Flag of Awesomeness
 
+% Creative tabs
 itemGroup.letsmodreboot=Let's Mod Reboot
+

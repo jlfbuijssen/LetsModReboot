@@ -9,7 +9,9 @@ import net.minecraftforge.oredict.ShapelessOreRecipe;
 public class Recipes {
     public static void init()
     {
+        // Generic shaped recipe
         //GameRegistry.addShapedRecipe(new ItemStack(ModItems.mapleLeaf), " s ", "sss", " s ", 's', new ItemStack(Items.stick));
+        // Generic shapeless recipe
         //GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.flag), new ItemStack(ModItems.mapleLeaf), new ItemStack(ModItems.mapleLeaf));
 
         GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.mapleLeaf), " s ", "sss", " s ", 's', "stickWood"));

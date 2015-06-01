@@ -1,6 +1,7 @@
 package com.jbuijssen.letsmodreboot;
 
 
+import com.jbuijssen.letsmodreboot.client.handler.KeyInputEventHandler;
 import com.jbuijssen.letsmodreboot.handler.ConfigurationHandler;
 import com.jbuijssen.letsmodreboot.init.ModItems;
 import com.jbuijssen.letsmodreboot.init.ModBlocks;
@@ -29,6 +30,8 @@ public class LetsModReboot {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
+        proxy.registerKeyBindings();
+
         ModItems.init();
         ModBlocks.init();
 
@@ -39,8 +42,7 @@ public class LetsModReboot {
     public void init(FMLInitializationEvent event){
         Recipes.init();
 
-
-
+        FMLCommonHandler.instance().bus().register(new KeyInputEventHandler());
         LogHelper.info("Initialization Complete!");
     }
 
